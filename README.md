@@ -137,7 +137,7 @@ Field	Value
 Name	Notion Expense Table Assistant
 Description	Fetch, query, track, and summarize property-related expenses
 Authentication	API Key
-Table ID	2142a73d9735800b9a72000c85713f11
+Table ID	2142-------------
 
 Assistant Capabilities
 Filter by property code, transaction, or date
