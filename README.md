@@ -3,7 +3,7 @@
 This project showcases an end-to-end automation framework that integrates **Xero**, **Notion**, **Google Sheets**, and **GPT (via Notion's AI Actions)** to streamline financial tracking and reporting. The system automatically syncs income and expenses from Xero into Notion, updates calculated profit figures, and enables natural language querying of expense data using custom GPTs.
 
 Images:
-![Expense-v2](./Expense-v2.png)
+![Expense-v2](./Expense_v2.png)
 ![For-Updating-Expenses-in-Master-Table-v12.png](./For-Updating-Expenses-in-Master-Table-v12.png)
 ![For-Updating-income-in-Master-Table-v2.png](./For-Updating-income-in-Master-Table-v2.png)
 ![GS-Income-Insertion-v4.png](./GS-Income-Insertion-v4.png)
